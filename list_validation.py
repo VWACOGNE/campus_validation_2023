@@ -1,21 +1,21 @@
 def create_task_list():
-    return []
+    pass
 
 
 def add_to_list(list_task, task):
-    list_task.append(task)
+    pass
 
 
 def size_of_list(list_task):
-    return len(list_task)
+    pass
 
 
 def list_contains(list_task, task):
-    return task in list_task
+    pass
 
 
 def upper_task_in_tasklist(list_task):
-    return [task.upper() for task in list_task]
+    pass
 
 
 def main():
